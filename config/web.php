@@ -2,7 +2,7 @@
 /*
  * @Author: Lucifer
  * @Date: 2022-03-13 17:10:00
- * @LastEditTime : 2022-07-01 17:07:44
+ * @LastEditTime : 2022-07-02 11:35:37
  * @FilePath     : \yiyanyun\config\web.php
  */
 
@@ -52,31 +52,3 @@ return [
 ];
 
 
-
-// 备份配置文件
-// return [
-//     //当前版本
-//     'version' => '1',
-//     //云端接口[大佬请放过，1h1g1c的机器提供不了您快乐]
-//     'yun_api' => 'http://172.17.204.30/api/',
-//     // SMTP服务器地址
-//     'smtp_host' => 'smtp.126.com',
-//     // 邮件用户
-//     'smtp_user' => 'yanmuyi@126.com',
-//     // 邮件密码
-//     'smtp_pass' => 'KPTKGAGUAWWKMPPB',
-//     // 邮件端口
-//     'smtp_port' => '25',
-//     // 返回地址（支付）
-//     'notify_url' => 'http://localhost/',
-//     // 返回地址（支付）
-//     'return_url' => 'http://localhost/user/balance/notify',
-//     // 支付ID
-//     'pay_id' => '1001',
-//     // 支付Key
-//     'pay_key' => '123456',
-//     // 支付API
-//     'pay_url' => 'https://pay.z52.xyz/', //需要带上斜杠和http或https
-//     // 你的系统名称[充值购买的时候用于显示]
-//     'webname' => '易验云',
-// ];

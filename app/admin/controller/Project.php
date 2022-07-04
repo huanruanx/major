@@ -5,7 +5,7 @@ namespace app\Admin\controller;
 use app\admin\model\Project as pro;
 use app\admin\model\Scode;
 use app\admin\model\User;
-use app\admin\model\api;
+use app\admin\model\Api;
 use think\facade\View;
 use think\Request;
 
